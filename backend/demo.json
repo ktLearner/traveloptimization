@@ -1,0 +1,50 @@
+{
+  "node_id": 1,
+  "departure": "Station A",
+  "destination": "jam",
+
+  "location": {
+    "type": "Point",
+    "coordinates": [77.5946, 12.9716]
+  },
+  "routes": {
+    "route1": [
+      {
+        "node_a ": "Station B",
+        "transport_mode": "train",
+        "distance_km": 200,
+        "start_time": "08:00",
+        "end_time": "11:00",
+        "cost": 500
+      },
+      {
+        "node_b": "Station C",
+        "distance_km": 150,
+        "travel_time_hours": 2.5,
+        "start_time": "09:00",
+        "end_time": "11:30",
+        "cost": 400,
+        "transport_mode": "train"
+      }
+    ],
+    "route2": [
+      {
+        "node_a ": "Station B",
+        "transport_mode": "train",
+        "distance_km": 200,
+        "start_time": "08:00",
+        "end_time": "11:00",
+        "cost": 500
+      },
+      {
+        "node_b": "Station C",
+        "distance_km": 150,
+        "travel_time_hours": 2.5,
+        "start_time": "09:00",
+        "end_time": "11:30",
+        "cost": 400,
+        "transport_mode": "train"
+      }
+    ]
+  }
+}
