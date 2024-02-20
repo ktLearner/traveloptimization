@@ -1,0 +1,33 @@
+flights
+
+1)serpApi(https://serpapi.com/google-flights-api): 
+https://serpapi.com/search?engine=google_flights&departure_id=LKO&arrival_id=BLR&outbound_date=2024-02-21&return_date=2024-02-27&api_key=<???????>
+
+
+2)duffel(https://duffel.com/blog/google-flights-api)
+
+
+
+
+
+railway
+
+1)rapidApi/IRCTC by IRCTCAPI(https://rapidapi.com/IRCTCAPI/api/irctc1)
+
+https://irctc1.p.rapidapi.com/api/v1/searchStation?query=BJU
+
+ url: 'https://irctc1.p.rapidapi.com/api/v3/trainBetweenStations',
+  params: {
+    fromStationCode: 'BVI',
+    toStationCode: 'NDLS',
+    dateOfJourney: '2024-02-23'
+  },
+  headers: {
+    'X-RapidAPI-Key': 'c07c12fb5emsh7fd03ac0f0f9f9ep116accjsn36fbd19dc311',
+    'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
+  }
+
+
+
+others
+https://enquiry.indianrail.gov.in/mntes/

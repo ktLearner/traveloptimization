@@ -1,0 +1,879 @@
+{
+    "search_metadata": {
+      "id": "65d4d4605c1059a774d727fb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/7466685164a19087/65d4d4605c1059a774d727fb.json",
+      "created_at": "2024-02-20 16:33:36 UTC",
+      "processed_at": "2024-02-20 16:33:36 UTC",
+      "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us",
+      "raw_html_file": "https://serpapi.com/searches/7466685164a19087/65d4d4605c1059a774d727fb.html",
+      "prettify_html_file": "https://serpapi.com/searches/7466685164a19087/65d4d4605c1059a774d727fb.prettify",
+      "total_time_taken": 1.2
+    },
+    "search_parameters": {
+      "engine": "google_flights",
+      "hl": "en",
+      "gl": "us",
+      "departure_id": "LKO",
+      "arrival_id": "BLR",
+      "outbound_date": "2024-02-21",
+      "return_date": "2024-02-27"
+    },
+    "best_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 21:45"
+            },
+            "arrival_airport": {
+              "name": "Rajiv Gandhi International Airport",
+              "id": "HYD",
+              "time": "2024-02-21 23:50"
+            },
+            "duration": 125,
+            "airplane": "Airbus A321neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 6166",
+            "legroom": "29 in",
+            "extensions": [
+              "Below average legroom (29 in)",
+              "Carbon emissions estimate: 71 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          },
+          {
+            "departure_airport": {
+              "name": "Rajiv Gandhi International Airport",
+              "id": "HYD",
+              "time": "2024-02-22 05:20"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 06:20"
+            },
+            "duration": 60,
+            "airplane": "Airbus A320neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 887",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 41 kg"
+            ]
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 330,
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "overnight": true
+          }
+        ],
+        "total_duration": 515,
+        "carbon_emissions": {
+          "this_flight": 113000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 5
+        },
+        "price": 181,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ3cyUlRZeE5qWjhOa1U0T0RjYUN3aVhqUUVRQWhvRFZWTkVPQnh3bDQwQiIsW1siTEtPIiwiMjAyNC0wMi0yMSIsIkhZRCIsbnVsbCwiNkUiLCI2MTY2Il0sWyJIWUQiLCIyMDI0LTAyLTIyIiwiQkxSIixudWxsLCI2RSIsIjg4NyJdXV0="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 19:40"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-21 22:30"
+            },
+            "duration": 170,
+            "airplane": "Boeing 737MAX 8 Passenger",
+            "airline": "Akasa Air",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+            "travel_class": "Economy",
+            "flight_number": "QP 1401",
+            "extensions": [
+              "Carbon emissions estimate: 100 kg"
+            ]
+          }
+        ],
+        "total_duration": 170,
+        "carbon_emissions": {
+          "this_flight": 100000,
+          "typical_for_this_route": 108000,
+          "difference_percent": -7
+        },
+        "price": 184,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1pSVURFME1ERWFDd2l5andFUUFob0RWVk5FT0J4d3NvOEIiLFtbIkxLTyIsIjIwMjQtMDItMjEiLCJCTFIiLG51bGwsIlFQIiwiMTQwMSJdXV0="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 09:10"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-21 11:40"
+            },
+            "duration": 150,
+            "airplane": "Airbus A320",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 325",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 111 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "total_duration": 150,
+        "carbon_emissions": {
+          "this_flight": 112000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 4
+        },
+        "price": 190,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1UyUlRNeU5Sb0xDUFdUQVJBQ0dnTlZVMFE0SEhEMWt3RT0iLFtbIkxLTyIsIjIwMjQtMDItMjEiLCJCTFIiLG51bGwsIjZFIiwiMzI1Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 22:35"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 01:10"
+            },
+            "duration": 155,
+            "airplane": "Airbus A320",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 906",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 111 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "total_duration": 155,
+        "carbon_emissions": {
+          "this_flight": 112000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 4
+        },
+        "price": 190,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1UyUlRrd05ob0xDUFdUQVJBQ0dnTlZVMFE0SEhEMWt3RT0iLFtbIkxLTyIsIjIwMjQtMDItMjEiLCJCTFIiLG51bGwsIjZFIiwiOTA2Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 19:50"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-21 22:20"
+            },
+            "duration": 150,
+            "airplane": "Airbus A320neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 6354",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 89 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "total_duration": 150,
+        "carbon_emissions": {
+          "this_flight": 90000,
+          "typical_for_this_route": 108000,
+          "difference_percent": -17
+        },
+        "price": 197,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1kyUlRZek5UUWFDd2p0bVFFUUFob0RWVk5FT0J4dzdaa0IiLFtbIkxLTyIsIjIwMjQtMDItMjEiLCJCTFIiLG51bGwsIjZFIiwiNjM1NCJdXV0="
+      }
+    ],
+    "other_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 07:45"
+            },
+            "arrival_airport": {
+              "name": "Netaji Subhash Chandra Bose International Airport",
+              "id": "CCU",
+              "time": "2024-02-21 09:15"
+            },
+            "duration": 90,
+            "airplane": "Airbus A321neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 505",
+            "legroom": "29 in",
+            "extensions": [
+              "Below average legroom (29 in)",
+              "Carbon emissions estimate: 62 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          },
+          {
+            "departure_airport": {
+              "name": "Netaji Subhash Chandra Bose International Airport",
+              "id": "CCU",
+              "time": "2024-02-21 12:55"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-21 15:40"
+            },
+            "duration": 165,
+            "airplane": "Airbus A321neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 455",
+            "legroom": "29 in",
+            "extensions": [
+              "Below average legroom (29 in)",
+              "Carbon emissions estimate: 92 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 220,
+            "name": "Netaji Subhash Chandra Bose International Airport",
+            "id": "CCU"
+          }
+        ],
+        "total_duration": 475,
+        "carbon_emissions": {
+          "this_flight": 155000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 44
+        },
+        "price": 188,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ3MyUlRVd05YdzJSVFExTlJvTENPNlNBUkFDR2dOVlUwUTRISER1a2dFPSIsW1siTEtPIiwiMjAyNC0wMi0yMSIsIkNDVSIsbnVsbCwiNkUiLCI1MDUiXSxbIkNDVSIsIjIwMjQtMDItMjEiLCJCTFIiLG51bGwsIjZFIiwiNDU1Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 21:15"
+            },
+            "arrival_airport": {
+              "name": "Pune International Airport",
+              "id": "PNQ",
+              "time": "2024-02-21 23:25"
+            },
+            "duration": 130,
+            "airplane": "Airbus A320neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 118",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 73 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Pune International Airport",
+              "id": "PNQ",
+              "time": "2024-02-22 04:45"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 06:15"
+            },
+            "duration": 90,
+            "airplane": "Airbus A321neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 674",
+            "legroom": "29 in",
+            "extensions": [
+              "Below average legroom (29 in)",
+              "Carbon emissions estimate: 54 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 320,
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "overnight": true
+          }
+        ],
+        "total_duration": 540,
+        "carbon_emissions": {
+          "this_flight": 128000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 19
+        },
+        "price": 188,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ3MyUlRFeE9IdzJSVFkzTkJvTENPNlNBUkFDR2dOVlUwUTRISER1a2dFPSIsW1siTEtPIiwiMjAyNC0wMi0yMSIsIlBOUSIsbnVsbCwiNkUiLCIxMTgiXSxbIlBOUSIsIjIwMjQtMDItMjIiLCJCTFIiLG51bGwsIjZFIiwiNjc0Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 23:00"
+            },
+            "arrival_airport": {
+              "name": "Indira Gandhi International Airport (Delhi Airport)",
+              "id": "DEL",
+              "time": "2024-02-22 00:20"
+            },
+            "duration": 80,
+            "airplane": "Airbus A320",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 6172",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 47 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Indira Gandhi International Airport (Delhi Airport)",
+              "id": "DEL",
+              "time": "2024-02-22 03:00"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 05:50"
+            },
+            "duration": 170,
+            "airplane": "Airbus A321neo",
+            "airline": "IndiGo",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+            "travel_class": "Economy",
+            "flight_number": "6E 2375",
+            "legroom": "29 in",
+            "extensions": [
+              "Below average legroom (29 in)",
+              "Carbon emissions estimate: 99 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 160,
+            "name": "Indira Gandhi International Airport (Delhi Airport)",
+            "id": "DEL",
+            "overnight": true
+          }
+        ],
+        "total_duration": 410,
+        "carbon_emissions": {
+          "this_flight": 147000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 36
+        },
+        "price": 236,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZzAyUlRZeE56SjhOa1V5TXpjMUdnc0k2YmNCRUFJYUExVlRSRGdjY09tM0FRPT0iLFtbIkxLTyIsIjIwMjQtMDItMjEiLCJERUwiLG51bGwsIjZFIiwiNjE3MiJdLFsiREVMIiwiMjAyNC0wMi0yMiIsIkJMUiIsbnVsbCwiNkUiLCIyMzc1Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 14:30"
+            },
+            "arrival_airport": {
+              "name": "Indira Gandhi International Airport (Delhi Airport)",
+              "id": "DEL",
+              "time": "2024-02-21 15:55"
+            },
+            "duration": 85,
+            "airplane": "Airbus A321",
+            "airline": "Air India",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+            "travel_class": "Economy",
+            "flight_number": "AI 432",
+            "legroom": "30 in",
+            "extensions": [
+              "Average legroom (30 in)",
+              "Carbon emissions estimate: 55 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Indira Gandhi International Airport (Delhi Airport)",
+              "id": "DEL",
+              "time": "2024-02-22 05:45"
+            },
+            "arrival_airport": {
+              "name": "Chennai International Airport",
+              "id": "MAA",
+              "time": "2024-02-22 08:35"
+            },
+            "duration": 170,
+            "airplane": "Airbus A320neo",
+            "airline": "Air India",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+            "travel_class": "Economy",
+            "flight_number": "AI 439",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Carbon emissions estimate: 109 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Chennai International Airport",
+              "id": "MAA",
+              "time": "2024-02-22 12:05"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 13:05"
+            },
+            "duration": 60,
+            "airplane": "Airbus A350",
+            "airline": "Air India",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+            "travel_class": "Economy",
+            "flight_number": "AI 583",
+            "legroom": "31 in",
+            "extensions": [
+              "Average legroom (31 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 41 kg"
+            ]
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 830,
+            "name": "Indira Gandhi International Airport (Delhi Airport)",
+            "id": "DEL",
+            "overnight": true
+          },
+          {
+            "duration": 210,
+            "name": "Chennai International Airport",
+            "id": "MAA"
+          }
+        ],
+        "total_duration": 1355,
+        "carbon_emissions": {
+          "this_flight": 206000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 91
+        },
+        "price": 312,
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFaEZCU1RRek1ueEJTVFF6T1h4QlNUVTRNeG9MQ05QekFSQUNHZ05WVTBRNEhIRFQ4d0U9IixbWyJMS08iLCIyMDI0LTAyLTIxIiwiREVMIixudWxsLCJBSSIsIjQzMiJdLFsiREVMIiwiMjAyNC0wMi0yMiIsIk1BQSIsbnVsbCwiQUkiLCI0MzkiXSxbIk1BQSIsIjIwMjQtMDItMjIiLCJCTFIiLG51bGwsIkFJIiwiNTgzIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 08:40"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-21 11:15"
+            },
+            "duration": 155,
+            "airplane": "Airbus A320",
+            "airline": "Air India Express",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/I5.png",
+            "travel_class": "Economy",
+            "flight_number": "I5 1426",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Stream media to your device",
+              "Carbon emissions estimate: 111 kg"
+            ]
+          }
+        ],
+        "total_duration": 155,
+        "carbon_emissions": {
+          "this_flight": 112000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 4
+        },
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/I5.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1pKTlRFME1qWTRIQT09IixbWyJMS08iLCIyMDI0LTAyLTIxIiwiQkxSIixudWxsLCJJNSIsIjE0MjYiXV1d"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Chaudhary Charan Singh International Airport",
+              "id": "LKO",
+              "time": "2024-02-21 23:45"
+            },
+            "arrival_airport": {
+              "name": "Kempegowda International Airport Bengaluru",
+              "id": "BLR",
+              "time": "2024-02-22 02:20"
+            },
+            "duration": 155,
+            "airplane": "Airbus A320",
+            "airline": "Air India Express",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/I5.png",
+            "travel_class": "Economy",
+            "flight_number": "I5 1732",
+            "legroom": "28 in",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "Stream media to your device",
+              "Carbon emissions estimate: 111 kg"
+            ],
+            "overnight": true,
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "total_duration": 155,
+        "carbon_emissions": {
+          "this_flight": 112000,
+          "typical_for_this_route": 108000,
+          "difference_percent": 4
+        },
+        "type": "Round trip",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/I5.png",
+        "departure_token": "WyJDalJJUkdVemMzTmxWRkpzYzBsQlJYWlJaa0ZDUnkwdExTMHRMUzB0TFMxMWFtbHVNVUZCUVVGQlIxaFZNVWRCVDFKdWRtRkJFZ1pKTlRFM016STRIQT09IixbWyJMS08iLCIyMDI0LTAyLTIxIiwiQkxSIixudWxsLCJJNSIsIjE3MzIiXV1d"
+      }
+    ],
+    "price_insights": {
+      "lowest_price": 181,
+      "price_level": "high",
+      "typical_price_range": [
+        125,
+        160
+      ],
+      "price_history": [
+        [
+          1703183400,
+          138
+        ],
+        [
+          1703269800,
+          138
+        ],
+        [
+          1703356200,
+          138
+        ],
+        [
+          1703442600,
+          138
+        ],
+        [
+          1703529000,
+          138
+        ],
+        [
+          1703615400,
+          137
+        ],
+        [
+          1703701800,
+          132
+        ],
+        [
+          1703788200,
+          135
+        ],
+        [
+          1703874600,
+          137
+        ],
+        [
+          1703961000,
+          137
+        ],
+        [
+          1704047400,
+          137
+        ],
+        [
+          1704133800,
+          126
+        ],
+        [
+          1704220200,
+          126
+        ],
+        [
+          1704306600,
+          111
+        ],
+        [
+          1704393000,
+          129
+        ],
+        [
+          1704479400,
+          129
+        ],
+        [
+          1704565800,
+          133
+        ],
+        [
+          1704652200,
+          133
+        ],
+        [
+          1704738600,
+          129
+        ],
+        [
+          1704825000,
+          136
+        ],
+        [
+          1704911400,
+          129
+        ],
+        [
+          1704997800,
+          134
+        ],
+        [
+          1705084200,
+          129
+        ],
+        [
+          1705170600,
+          130
+        ],
+        [
+          1705257000,
+          130
+        ],
+        [
+          1705343400,
+          130
+        ],
+        [
+          1705429800,
+          130
+        ],
+        [
+          1705516200,
+          128
+        ],
+        [
+          1705602600,
+          129
+        ],
+        [
+          1705689000,
+          125
+        ],
+        [
+          1705775400,
+          129
+        ],
+        [
+          1705861800,
+          133
+        ],
+        [
+          1705948200,
+          125
+        ],
+        [
+          1706034600,
+          126
+        ],
+        [
+          1706121000,
+          135
+        ],
+        [
+          1706207400,
+          139
+        ],
+        [
+          1706293800,
+          139
+        ],
+        [
+          1706380200,
+          139
+        ],
+        [
+          1706466600,
+          139
+        ],
+        [
+          1706553000,
+          139
+        ],
+        [
+          1706639400,
+          129
+        ],
+        [
+          1706725800,
+          135
+        ],
+        [
+          1706812200,
+          137
+        ],
+        [
+          1706898600,
+          137
+        ],
+        [
+          1706985000,
+          137
+        ],
+        [
+          1707071400,
+          137
+        ],
+        [
+          1707157800,
+          141
+        ],
+        [
+          1707244200,
+          157
+        ],
+        [
+          1707330600,
+          157
+        ],
+        [
+          1707417000,
+          157
+        ],
+        [
+          1707503400,
+          157
+        ],
+        [
+          1707589800,
+          157
+        ],
+        [
+          1707676200,
+          157
+        ],
+        [
+          1707762600,
+          157
+        ],
+        [
+          1707849000,
+          157
+        ],
+        [
+          1707935400,
+          157
+        ],
+        [
+          1708021800,
+          157
+        ],
+        [
+          1708108200,
+          157
+        ],
+        [
+          1708194600,
+          157
+        ],
+        [
+          1708281000,
+          157
+        ],
+        [
+          1708367400,
+          181
+        ]
+      ]
+    }
+  }
