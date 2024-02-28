@@ -1,0 +1,10 @@
+3.fastgtfs(https://github.com/nicomazz/fastgtfs?tab=readme-ov-file)
+
+*language*: Rust mostly
+*core*: google transit (https://developers.google.com/transit/gtfs)
+*g-play-store*:https://play.google.com/store/apps/details?id=com.actv.nicomazz.lastjni&hl=en-US&ah=rSWGMnbTfYt4m5YCdQbPJBLzAwc
+*diffrentiator*:offline
+*learnings*: raptor algo(more optimised), Google's flatbuffers(to make app size smaller)  (there r more things read points under about the proj)
+
+
+	

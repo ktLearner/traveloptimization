@@ -6,7 +6,8 @@ https://serpapi.com/search?engine=google_flights&departure_id=LKO&arrival_id=BLR
 
 2)duffel(https://duffel.com/blog/google-flights-api)
 
-
+3)open sky : ig basic nd not much useful for us
+https://openskynetwork.github.io/opensky-api/rest.html#departures-by-airport
 
 
 
@@ -30,4 +31,9 @@ https://irctc1.p.rapidapi.com/api/v1/searchStation?query=BJU
 
 
 others
+
+https://indianrailapi.com/api-collection/all-trains-on-station(not working try once)
+
 https://enquiry.indianrail.gov.in/mntes/
+https://erail.in/
+
