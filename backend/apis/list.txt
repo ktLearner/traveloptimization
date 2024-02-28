@@ -28,12 +28,15 @@ https://irctc1.p.rapidapi.com/api/v1/searchStation?query=BJU
     'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
   }
 
+this api gives the nearest railway station in the same city but not the nearby city railway station.
+for eg : if borivali to new delhi is given then 
+         nearby railway station of new delhi is also given. 
 
 
 others
 
 https://indianrailapi.com/api-collection/all-trains-on-station(not working try once)
-
 https://enquiry.indianrail.gov.in/mntes/
 https://erail.in/
+
 
