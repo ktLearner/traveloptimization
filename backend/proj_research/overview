@@ -1,0 +1,38 @@
+
+-https://github.com/MobilityData/awesome-transit?tab=readme-ov-file#software-for-creating-apis
+
+-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://i11www.iti.kit.edu/extra/publications/p-mmrp-09.pdf&ved=2ahUKEwi_yom16bWFAxVIcvUHHYQYDmwQFnoECBwQAQ&usg=AOvVaw38B2umN8fyAV9BETLhTeYk
+get data
+
+data sources:
+- GTFS(https://gtfs.org/#)
+General Transit Feed Specification 
+    - transit data format
+
+    parts:
+        - GTFS Schedule
+        - GTFS Realtime
+
+
+
+Data for india
+    https://gtfs.pro/en/india
+    https://support.google.com/transitpartners/#topic=3521043
+
+
+- OpenStreetMap
+
+
+make engine 
+
+-https://gis-ops.com/open-source-routing-engines-and-algorithms-an-overview/?
+
+
+
+
+display results
+
+
+
+go through extra 
+https://www.sciencedirect.com/science/article/pii/S0957417423019590#sec2
