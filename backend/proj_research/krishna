@@ -1,0 +1,43 @@
+2.fastgtfs(https://github.com/nicomazz/fastgtfs?tab=readme-ov-file)
+
+*language*: Rust mostly
+*core*: google transit (https://developers.google.com/transit/gtfs)
+*g-play-store*:https://play.google.com/store/apps/details?id=com.actv.nicomazz.lastjni&hl=en-US&ah=rSWGMnbTfYt4m5YCdQbPJBLzAwc
+*diffrentiator*:offline
+*learnings*: raptor algo(more optimised), Google's flatbuffers(to make app size smaller)  (there r more things read points under about the proj)
+
+3. tripplanner(not much useful ig)
+https://github.com/samuelematias/TripPlanner
+- mobile app in react native
+- google places: https://github.com/tolu360/react-native-google-places 
+
+6.  ecg-map 
+https://github.com/EastCoastGreenwayAlliance/ecg-map/tree/master
+place : East Coast Greenway
+deployed on Heroku
+carto : Location intelligence platform to speed up your spatial analysis(not free)
+schema help: https://github.com/EastCoastGreenwayAlliance/ecg-map/blob/master/documentation/Tables_and_Fields.md
+-not cleary mentioned eveything  should chk by implementing
+
+9. bifrost (really good)
+https://github.com/Vector-Hector/bifrost?tab=readme-ov-file
+    -multi-modal routing engine in go
+    -route on public transport and streets
+    -cgo for fast processing
+
+algo:dijkstra and the RAPTOR algorithm.
+ It switches each round between public transport and street routing to find the best multi-modal path.
+raptor: https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/raptor_alenex.pdf
+for understanding raptor: https://kuanbutts.com/2020/09/12/raptor-simple-example/
+inspired by : https://github.com/opentripplanner/OpenTripPlanner
+GTFS: For public transport data : https://developers.google.com/transit/gtfs/reference
+kdtree: For efficient nearest neighbour search https://github.com/kyroy/kdtree
+fptf: For input and output of the routing API  https://github.com/public-transport/friendly-public-transport-format/tree/1.2.1
+https://github.com/public-transport/friendly-public-transport-format/blob/1.2.1/spec/readme.md
+
+12. trip-planner-live-ui 
+    :not mentioned much 
+    : i think just ui stuff
+
+15. TripPlanner 
+    : just found some website frontend folders
